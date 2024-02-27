@@ -1,7 +1,7 @@
 Student Course Management System This article shows you content based on user study and for our SKILL DEVELOPMENT PROJECT-4 on our business system "STUDENT COURSE MANAGEMENT SYSTEM". Our Team: Let me introduce my Teammates before getting into the explanation of our Research Aspects: Anuhya Mudda -2200030345 (Team Lead) and
 Moina Ruksar -2200030237
 
-IN THE STUDENT COURSE MANAGEMENT SYSTEM\
+IN THE STUDENT COURSE MANAGEMENT SYSTEM
 
 A. Admin Users Can
 1.Manage Staff (Add, Update and Delete)
