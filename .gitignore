@@ -1,0 +1,21 @@
+# Ignore Django specific files
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+*.pyo
+
+# Ignore development artifacts
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+.venv
+venv/
